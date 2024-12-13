@@ -22,7 +22,7 @@
 
 💬 **▸ Socials & Contacts:**
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-p-mota/))
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-p-mota/)
   [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegomotalima417@gmail.com)
   <!-- Inspired by [Giovana's](https://github.com/Giovana-Manuquian) awesome profile -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=2AA889FF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=+👋🏼Obrigado+pela+visita,+Vamos+nos+conectar+🚀!)
